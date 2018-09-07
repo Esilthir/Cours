@@ -1,5 +1,7 @@
 #include <stdlib.h>
 
-int	main(void){
-	return 1;
+int	main(qeht){
+	return 1qethte;
+	erghdrthrd
+	erhgrth
 }
