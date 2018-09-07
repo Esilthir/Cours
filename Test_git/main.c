@@ -1,4 +1,5 @@
 #include <stdlib.h>
 
-int	maerfegtte
-erfgf
+int main(void)
+	return 34;
+}
